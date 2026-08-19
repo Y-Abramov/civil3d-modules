@@ -1,0 +1,64 @@
+{
+  "modules": [
+    {
+      "name": "abr-civil-modules",
+      "title": "Библиотека модулей",
+      "version": "1.0.0",
+      "description": "Каталог модулей ABR | CIVIL: установка, обновление и удаление без прав администратора.",
+      "bundle_url": "https://github.com/Y-Abramov/abrcivilmodules/releases/download/v1.0.0/AbrCivilModules-1.0.0.zip",
+      "bundle_sha256": "F96BD94086D08F3EC401C1E8841129C94CD5F9390879095507C92C7F97D2A860",
+      "help_url": "",
+      "compatibility": ["2024"]
+    },
+    {
+      "name": "abr-hello",
+      "title": "Проверка связи",
+      "version": "1.0.0",
+      "description": "Технический модуль для проверки установки через Библиотеку модулей.",
+      "bundle_url": "https://github.com/Y-Abramov/abrhello/releases/download/v1.0.0/AbrHello-1.0.0.zip",
+      "bundle_sha256": "9C1188DEC850D5C2FA831B733FDF7E525402C4E8BAD191899A11C3D809978793",
+      "help_url": "",
+      "compatibility": ["2024"]
+    },
+    {
+      "name": "abr-lisp-manager",
+      "title": "Диспетчер лиспов",
+      "version": "1.0.0",
+      "description": "Библиотека LISP-программ: категории, поиск, описания, запуск в один клик и автозагрузка в каждый чертёж.",
+      "bundle_url": "https://github.com/Y-Abramov/abrlispmanager/releases/download/v1.0.0/AbrLispManager-1.0.0.zip",
+      "bundle_sha256": "F53CA2325A58BF1B386C97647E601B86807B4647C2DDB3F1C2CDB75CA90D2EF4",
+      "help_url": "",
+      "compatibility": ["2024"]
+    },
+    {
+      "name": "abr-planstrip",
+      "title": "Развёртка плана",
+      "version": "1.0.0",
+      "description": "Спрямление ситуационного плана трассы для полосы над сеткой продольного профиля.",
+      "bundle_url": "https://github.com/Y-Abramov/abrplanstrip/releases/download/v1.0.0/AbrPlanStrip-1.0.0.zip",
+      "bundle_sha256": "9D9DC18CC256A9D64607D76496E70A604E69E0B87AC6D1196677553F5FFDC7D5",
+      "help_url": "",
+      "compatibility": ["2024"]
+    },
+    {
+      "name": "abr-cartogram",
+      "title": "Картограмма земляных масс",
+      "version": "1.0.0",
+      "description": "Построение и оформление плана земляных масс по ГОСТ 21.508-2020 с расчётом объёмов по двум поверхностям.",
+      "bundle_url": "https://github.com/Y-Abramov/abrcartogram/releases/download/v1.0.0/AbrCartogram-1.0.0.zip",
+      "bundle_sha256": "5907FF88ABB0ED18903D0C9EF0409099FCE7DA9D59D92670A36EDE6DBF07A45F",
+      "help_url": "",
+      "compatibility": ["2024"]
+    },
+    {
+      "name": "abr-vehicle-passage",
+      "title": "Проезд ТС",
+      "version": "1.0.0",
+      "description": "Проверка проезда расчётного транспортного средства: коридоры следа колёс и габарита кузова.",
+      "bundle_url": "https://github.com/Y-Abramov/abrvehiclepassage/releases/download/v1.0.0/AbrVehiclePassage-1.0.0.zip",
+      "bundle_sha256": "BBDC0B71197641714602E7A7351504C5C23B7751467CBE0D5E50345B7302E359",
+      "help_url": "",
+      "compatibility": ["2024"]
+    }
+  ]
+}
