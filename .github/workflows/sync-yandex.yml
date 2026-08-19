@@ -1,0 +1,19 @@
+name: Sync catalog to Yandex Object Storage
+
+on:
+  push:
+    branches: [main]
+    paths: ['catalog.json']
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.YC_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.YC_SECRET_ACCESS_KEY }}
+      AWS_DEFAULT_REGION: ru-central1
+    steps:
+      - uses: actions/checkout@v4
+      - name: Sync to Yandex Object Storage
+        run: bash scripts/sync-to-yandex.sh
