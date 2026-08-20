@@ -3,7 +3,7 @@ name: Sync catalog to Yandex Object Storage
 on:
   push:
     branches: [main]
-    paths: ['catalog.json']
+    paths: ['catalog.json', 'scripts/**']
   workflow_dispatch:
 
 jobs:
