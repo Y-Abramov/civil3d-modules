@@ -13,7 +13,7 @@
     {
       "name": "AbrLispManager",
       "title": "Диспетчер лиспов",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Библиотека LISP-программ: категории, поиск, описания, запуск в один клик и автозагрузка в каждый чертёж.",
       "bundle_url": "https://github.com/Y-Abramov/abrlispmanager/releases/download/v1.0.0/AbrLispManager-1.0.0.zip",
       "bundle_sha256": "F53CA2325A58BF1B386C97647E601B86807B4647C2DDB3F1C2CDB75CA90D2EF4",
