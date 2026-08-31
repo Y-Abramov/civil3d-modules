@@ -6,7 +6,7 @@
       "version": "1.0.0",
       "description": "Каталог модулей ABR | CIVIL: установка, обновление и удаление без прав администратора.",
       "bundle_url": "https://github.com/Y-Abramov/abrcivilmodules/releases/download/v1.0.0/AbrCivilModules-1.0.0.zip",
-      "bundle_sha256": "5C2101DDCD0368DEC96F61B5BA3AC148767928E2831B23D530D3186BDD57CB28",
+      "bundle_sha256": "7E9460A82F31571410703343728C26361D79E1EC355BD9E007EC7B0D27BFD0A4",
       "help_url": "https://abrmove.ru/modules/abr-civil-modules/",
       "compatibility": ["2021", "2024", "2025", "2026"]
     },
@@ -16,7 +16,7 @@
       "version": "1.0.0",
       "description": "Библиотека LISP-программ: категории, поиск, описания, запуск в один клик и автозагрузка в каждый чертёж.",
       "bundle_url": "https://github.com/Y-Abramov/abrlispmanager/releases/download/v1.0.0/AbrLispManager-1.0.0.zip",
-      "bundle_sha256": "F53CA2325A58BF1B386C97647E601B86807B4647C2DDB3F1C2CDB75CA90D2EF4",
+      "bundle_sha256": "0BFD1EA904EB108C67BEF44A419DCCCA74FE8BF45F8652F2E08B23CD184F2577",
       "help_url": "https://abrmove.ru/modules/abr-lisp-manager/",
       "compatibility": ["2021", "2024", "2025", "2026"]
     },
@@ -26,7 +26,7 @@
       "version": "1.0.0",
       "description": "Спрямление ситуационного плана трассы для полосы над сеткой продольного профиля.",
       "bundle_url": "https://github.com/Y-Abramov/abrplanstrip/releases/download/v1.0.0/AbrPlanStrip-1.0.0.zip",
-      "bundle_sha256": "2BB0199D11E5E78371494AF06FAE465F1E00620940447895CC85E82FA7FE437D",
+      "bundle_sha256": "081A65D96505E06828FCF8D773E0D553DAB552C4CF92141331FDAB7F0AF7C1A4",
       "help_url": "https://abrmove.ru/modules/abr-plan-strip/",
       "compatibility": ["2021", "2024", "2025", "2026"]
     },
@@ -36,7 +36,7 @@
       "version": "1.0.0",
       "description": "Построение и оформление плана земляных масс по ГОСТ 21.508-2020 с расчётом объёмов по двум поверхностям.",
       "bundle_url": "https://github.com/Y-Abramov/abrcartogram/releases/download/v1.0.0/AbrCartogram-1.0.0.zip",
-      "bundle_sha256": "5907FF88ABB0ED18903D0C9EF0409099FCE7DA9D59D92670A36EDE6DBF07A45F",
+      "bundle_sha256": "FD73118F4042D606A388FB15EDA1B5E3B242E16CDFD14CB5FE4184A8259C8C06",
       "help_url": "https://abrmove.ru/modules/abr-cartogram/",
       "compatibility": ["2021", "2024", "2025", "2026"]
     },
@@ -46,7 +46,7 @@
       "version": "1.0.0",
       "description": "Проверка проезда расчётного транспортного средства: коридоры следа колёс и габарита кузова.",
       "bundle_url": "https://github.com/Y-Abramov/abrvehiclepassage/releases/download/v1.0.0/AbrVehiclePassage-1.0.0.zip",
-      "bundle_sha256": "BBDC0B71197641714602E7A7351504C5C23B7751467CBE0D5E50345B7302E359",
+      "bundle_sha256": "C4E6C2C0774B532B249FEEE14595551DBCBC3D05465D42729FB61A9611A20E7A",
       "help_url": "https://abrmove.ru/modules/abr-vehicle-passage/",
       "compatibility": ["2021", "2024", "2025", "2026"]
     }
