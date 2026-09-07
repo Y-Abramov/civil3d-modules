@@ -49,6 +49,26 @@
       "bundle_sha256": "C4E6C2C0774B532B249FEEE14595551DBCBC3D05465D42729FB61A9611A20E7A",
       "help_url": "https://abrmove.ru/modules/abr-vehicle-passage/",
       "compatibility": ["2021", "2024", "2025", "2026"]
+    },
+    {
+      "name": "AbrBasemap",
+      "title": "Диспетчер карт",
+      "version": "1.0.0",
+      "description": "Тайловые карты как растровая подложка чертежа: загрузка области, ресемплинг в систему координат чертежа, вставка одним растром.",
+      "bundle_url": "https://github.com/Y-Abramov/abrbasemap/releases/download/v1.0.0/AbrBasemap-1.0.0.zip",
+      "bundle_sha256": "610E3298B87289344C71DF91269022474322CC3F4AD8D5132A10722A74F497CE",
+      "help_url": "https://abrmove.ru/modules/abr-basemap/",
+      "compatibility": ["2021", "2024", "2025", "2026"]
+    },
+    {
+      "name": "AbrDemLoader",
+      "title": "Загрузка рельефа",
+      "version": "1.0.0",
+      "description": "Рельеф из открытых данных как поверхность Civil 3D: выбор области в чертеже, загрузка DEM, построение поверхности в системе координат чертежа.",
+      "bundle_url": "https://github.com/Y-Abramov/abrdemloader/releases/download/v1.0.0/AbrDemLoader-1.0.0.zip",
+      "bundle_sha256": "5492579068AC625A67673243071EC84F0CDAC1FF682CE499269849A2B4372E30",
+      "help_url": "https://abrmove.ru/modules/abr-dem-loader/",
+      "compatibility": ["2021", "2024", "2025", "2026"]
     }
   ]
 }
