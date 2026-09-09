@@ -69,6 +69,16 @@
       "bundle_sha256": "5492579068AC625A67673243071EC84F0CDAC1FF682CE499269849A2B4372E30",
       "help_url": "https://abrmove.ru/modules/abr-dem-loader/",
       "compatibility": ["2021", "2024", "2025", "2026"]
+    },
+    {
+      "name": "AbrPaving",
+      "title": "Мощение",
+      "version": "1.0.0",
+      "description": "Раскладка тротуарной плитки по контуру: схемы мощения, цветовые узоры, ведомость по СП 508.1325800.2022.",
+      "bundle_url": "https://github.com/Y-Abramov/abrpaving/releases/download/v1.0.0/AbrPaving-1.0.0.zip",
+      "bundle_sha256": "AE00754FAEE191700FC409B7B6A5B682472CB5357105C6FA98DC14694422BA31",
+      "help_url": "https://abrmove.ru/modules/abr-paving/",
+      "compatibility": ["2021", "2024", "2025", "2026"]
     }
   ]
 }
