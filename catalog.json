@@ -8,7 +8,7 @@
       "bundle_url": "https://github.com/Y-Abramov/abrcivilmodules/releases/download/v1.1.0/AbrCivilModules-1.1.0.zip",
       "bundle_sha256": "512DA8BD6BFB6D02E15C2382382E437BAB08D03E0D9E41FE078C15491AE3E54F",
       "help_url": "https://abrmove.ru/modules/abr-civil-modules/",
-      "compatibility": ["2021", "2024", "2025", "2026"]
+      "compatibility": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
     },
     {
       "name": "AbrLispManager",
@@ -18,7 +18,7 @@
       "bundle_url": "https://github.com/Y-Abramov/abrlispmanager/releases/download/v1.0.0/AbrLispManager-1.0.0.zip",
       "bundle_sha256": "0BFD1EA904EB108C67BEF44A419DCCCA74FE8BF45F8652F2E08B23CD184F2577",
       "help_url": "https://abrmove.ru/modules/abr-lisp-manager/",
-      "compatibility": ["2021", "2024", "2025", "2026"]
+      "compatibility": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
     },
     {
       "name": "AbrPlanStrip",
@@ -28,7 +28,7 @@
       "bundle_url": "https://github.com/Y-Abramov/abrplanstrip/releases/download/v1.0.0/AbrPlanStrip-1.0.0.zip",
       "bundle_sha256": "081A65D96505E06828FCF8D773E0D553DAB552C4CF92141331FDAB7F0AF7C1A4",
       "help_url": "https://abrmove.ru/modules/abr-plan-strip/",
-      "compatibility": ["2021", "2024", "2025", "2026"]
+      "compatibility": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
     },
     {
       "name": "AbrCartogram",
@@ -38,7 +38,7 @@
       "bundle_url": "https://github.com/Y-Abramov/abrcartogram/releases/download/v1.0.0/AbrCartogram-1.0.0.zip",
       "bundle_sha256": "FD73118F4042D606A388FB15EDA1B5E3B242E16CDFD14CB5FE4184A8259C8C06",
       "help_url": "https://abrmove.ru/modules/abr-cartogram/",
-      "compatibility": ["2021", "2024", "2025", "2026"]
+      "compatibility": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
     },
     {
       "name": "AbrVehiclePassage",
@@ -48,7 +48,7 @@
       "bundle_url": "https://github.com/Y-Abramov/abrvehiclepassage/releases/download/v1.0.0/AbrVehiclePassage-1.0.0.zip",
       "bundle_sha256": "C4E6C2C0774B532B249FEEE14595551DBCBC3D05465D42729FB61A9611A20E7A",
       "help_url": "https://abrmove.ru/modules/abr-vehicle-passage/",
-      "compatibility": ["2021", "2024", "2025", "2026"]
+      "compatibility": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
     },
     {
       "name": "AbrBasemap",
@@ -58,7 +58,7 @@
       "bundle_url": "https://github.com/Y-Abramov/abrbasemap/releases/download/v1.0.0/AbrBasemap-1.0.0.zip",
       "bundle_sha256": "610E3298B87289344C71DF91269022474322CC3F4AD8D5132A10722A74F497CE",
       "help_url": "https://abrmove.ru/modules/abr-basemap/",
-      "compatibility": ["2021", "2024", "2025", "2026"]
+      "compatibility": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
     },
     {
       "name": "AbrDemLoader",
@@ -68,7 +68,7 @@
       "bundle_url": "https://github.com/Y-Abramov/abrdemloader/releases/download/v1.0.0/AbrDemLoader-1.0.0.zip",
       "bundle_sha256": "5492579068AC625A67673243071EC84F0CDAC1FF682CE499269849A2B4372E30",
       "help_url": "https://abrmove.ru/modules/abr-dem-loader/",
-      "compatibility": ["2021", "2024", "2025", "2026"]
+      "compatibility": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
     },
     {
       "name": "AbrPaving",
@@ -78,7 +78,7 @@
       "bundle_url": "https://github.com/Y-Abramov/abrpaving/releases/download/v1.0.0/AbrPaving-1.0.0.zip",
       "bundle_sha256": "AE00754FAEE191700FC409B7B6A5B682472CB5357105C6FA98DC14694422BA31",
       "help_url": "https://abrmove.ru/modules/abr-paving/",
-      "compatibility": ["2021", "2024", "2025", "2026"]
+      "compatibility": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
     }
   ]
 }
