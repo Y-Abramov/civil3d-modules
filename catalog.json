@@ -33,10 +33,10 @@
     {
       "name": "AbrCartogram",
       "title": "Картограмма земляных масс",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Построение и оформление плана земляных масс по ГОСТ 21.508-2020 с расчётом объёмов по двум поверхностям.",
-      "bundle_url": "https://github.com/Y-Abramov/abrcartogram/releases/download/v1.0.0/AbrCartogram-1.0.0.zip",
-      "bundle_sha256": "FD73118F4042D606A388FB15EDA1B5E3B242E16CDFD14CB5FE4184A8259C8C06",
+      "bundle_url": "https://github.com/Y-Abramov/abrcartogram/releases/download/v1.0.1/AbrCartogram-1.0.1.zip",
+      "bundle_sha256": "9C63EE5EB2AB60DFAAE21A28B577A0250DCCFA9401C16A460778279A6C341272",
       "help_url": "https://abrmove.ru/modules/abr-cartogram/",
       "compatibility": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
     },
