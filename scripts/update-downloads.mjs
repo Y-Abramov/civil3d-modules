@@ -107,14 +107,20 @@ async function main() {
     }
     releasesByName[module.name] = byRepo.get(repo);
   }
+  // Every repo failed (rate limit, bad token, outage): nothing to merge, and a green job
+  // would hide that the ledger stopped moving. Fail loudly instead.
+  if (byRepo.size > 0 && [...byRepo.values()].every(releases => releases === null)) {
+    throw new Error('All GitHub requests failed; ledger left untouched');
+  }
   const ledger = mergeLedger(prev, modules, releasesByName, offsets, new Date().toISOString());
   await writeFile(ledgerPath, `${JSON.stringify(ledger, null, 2)}\n`);
   for (const [name, entry] of Object.entries(ledger.modules)) console.log(`${name} ${entry.total}`);
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
-  main().catch(() => {
-    console.error('Failed to update downloads ledger');
+  main().catch(error => {
+    // Only our own messages reach here (HTTP status, malformed ledger) - no tokens or bodies.
+    console.error(`Failed to update downloads ledger: ${error?.message ?? error}`);
     process.exitCode = 1;
   });
 }
