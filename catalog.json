@@ -6,7 +6,7 @@
       "version": "1.2.0",
       "description": "Каталог модулей ABR | CIVIL: установка, обновление и удаление без прав администратора.",
       "bundle_url": "https://github.com/Y-Abramov/abrcivilmodules/releases/download/v1.2.0/AbrCivilModules-1.2.0.zip",
-      "bundle_sha256": "3221ACA640FF6AA821E0A53BE3FA2E0056D178D53B07F9371473EB554C355401",
+      "bundle_sha256": "5FADD584568D0AC60E749BE2E932585D97FFD51923F32BE489824E9D7E98FE01",
       "help_url": "https://abrmove.ru/modules/abr-civil-modules/",
       "compatibility": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
     },
@@ -33,20 +33,20 @@
     {
       "name": "AbrCartogram",
       "title": "Картограмма земляных масс",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "description": "Построение и оформление плана земляных масс по ГОСТ 21.508-2020 с расчётом объёмов по двум поверхностям.",
-      "bundle_url": "https://github.com/Y-Abramov/abrcartogram/releases/download/v1.0.1/AbrCartogram-1.0.1.zip",
-      "bundle_sha256": "9C63EE5EB2AB60DFAAE21A28B577A0250DCCFA9401C16A460778279A6C341272",
+      "bundle_url": "https://github.com/Y-Abramov/abrcartogram/releases/download/v1.1.0/AbrCartogram-1.1.0.zip",
+      "bundle_sha256": "84EDDCD6886B2EBD3B190CD4BDE3451A9688FE843008B08A2CC715B56E699666",
       "help_url": "https://abrmove.ru/modules/abr-cartogram/",
       "compatibility": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
     },
     {
       "name": "AbrVehiclePassage",
       "title": "Проезд ТС",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "description": "Проверка проезда расчётного транспортного средства: коридоры следа колёс и габарита кузова.",
-      "bundle_url": "https://github.com/Y-Abramov/abrvehiclepassage/releases/download/v1.0.0/AbrVehiclePassage-1.0.0.zip",
-      "bundle_sha256": "C4E6C2C0774B532B249FEEE14595551DBCBC3D05465D42729FB61A9611A20E7A",
+      "bundle_url": "https://github.com/Y-Abramov/abrvehiclepassage/releases/download/v1.1.0/AbrVehiclePassage-1.1.0.zip",
+      "bundle_sha256": "10F7B143119CBB4678533692B8AAE3C455E42D6B14169D86BA7D7F4E9BF7E5BB",
       "help_url": "https://abrmove.ru/modules/abr-vehicle-passage/",
       "compatibility": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
     },
@@ -73,10 +73,10 @@
     {
       "name": "AbrPaving",
       "title": "Мощение",
-      "version": "1.0.0",
-      "description": "Раскладка тротуарной плитки по контуру: схемы мощения, цветовые узоры, ведомость по СП 508.1325800.2022.",
-      "bundle_url": "https://github.com/Y-Abramov/abrpaving/releases/download/v1.0.0/AbrPaving-1.0.0.zip",
-      "bundle_sha256": "AE00754FAEE191700FC409B7B6A5B682472CB5357105C6FA98DC14694422BA31",
+      "version": "1.1.0",
+      "description": "Раскладка плитки по контуру и вдоль направляющей: полосы, ряды, схемы мощения, цветовые узоры и ведомость.",
+      "bundle_url": "https://github.com/Y-Abramov/abrpaving/releases/download/v1.1.0/AbrPaving-1.1.0.zip",
+      "bundle_sha256": "D54BB17CAE9CA1A05ACC8BCF6A9F7B0666449B12C8BC4145469CB076714BC9B8",
       "help_url": "https://abrmove.ru/modules/abr-paving/",
       "compatibility": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
     }
