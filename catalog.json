@@ -3,10 +3,10 @@
     {
       "name": "abr-civil-modules",
       "title": "Библиотека модулей",
-      "version": "1.2.0",
+      "version": "1.5.1",
       "description": "Каталог модулей ABR | CIVIL: установка, обновление и удаление без прав администратора.",
-      "bundle_url": "https://github.com/Y-Abramov/abrcivilmodules/releases/download/v1.2.0/AbrCivilModules-1.2.0.zip",
-      "bundle_sha256": "5FADD584568D0AC60E749BE2E932585D97FFD51923F32BE489824E9D7E98FE01",
+      "bundle_url": "https://github.com/Y-Abramov/abrcivilmodules/releases/download/v1.5.1/AbrCivilModules-1.5.1.zip",
+      "bundle_sha256": "2E18313DD228369B94AC5CC0C52171A158ABB110F40DFCD75986056E4419DE68",
       "help_url": "https://abrmove.ru/modules/abr-civil-modules/",
       "compatibility": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
     },
