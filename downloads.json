@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-18T11:03:02.982Z",
+  "updated_at": "2026-10-18T15:51:36.915Z",
   "modules": {
     "AbrBasemap": {
       "repo": "Y-Abramov/abrbasemap",
       "offset": 0,
-      "total": 169,
+      "total": 170,
       "assets": {
         "549279759": {
           "name": "AbrBasemap-1.0.0.zip",
-          "count": 169
+          "count": 170
         }
       }
     },
     "AbrCartogram": {
       "repo": "Y-Abramov/abrcartogram",
       "offset": 0,
-      "total": 208,
+      "total": 209,
       "assets": {
         "537457703": {
           "name": "AbrCartogram-1.0.0.zip",
@@ -28,18 +28,18 @@
         },
         "651911742": {
           "name": "AbrCartogram-1.1.0.zip",
-          "count": 7
+          "count": 8
         }
       }
     },
     "AbrDemLoader": {
       "repo": "Y-Abramov/abrdemloader",
       "offset": 0,
-      "total": 159,
+      "total": 160,
       "assets": {
         "549279927": {
           "name": "AbrDemLoader-1.0.0.zip",
-          "count": 159
+          "count": 160
         }
       }
     },
@@ -98,7 +98,7 @@
     "abr-civil-modules": {
       "repo": "Y-Abramov/abrcivilmodules",
       "offset": 116,
-      "total": 303,
+      "total": 304,
       "assets": {
         "537457886": {
           "name": "AbrCivilModules-1.0.0.zip",
@@ -130,7 +130,7 @@
         },
         "652453157": {
           "name": "AbrCivilModules-1.5.1.zip",
-          "count": 6
+          "count": 7
         }
       }
     }
