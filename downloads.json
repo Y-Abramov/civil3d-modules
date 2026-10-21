@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T11:47:46.644Z",
+  "updated_at": "2026-10-21T17:11:34.773Z",
   "modules": {
     "AbrBasemap": {
       "repo": "Y-Abramov/abrbasemap",
       "offset": 0,
-      "total": 180,
+      "total": 181,
       "assets": {
         "549279759": {
           "name": "AbrBasemap-1.0.0.zip",
-          "count": 180
+          "count": 181
         }
       }
     },
     "AbrCartogram": {
       "repo": "Y-Abramov/abrcartogram",
       "offset": 0,
-      "total": 230,
+      "total": 231,
       "assets": {
         "537457703": {
           "name": "AbrCartogram-1.0.0.zip",
@@ -28,18 +28,18 @@
         },
         "651911742": {
           "name": "AbrCartogram-1.1.0.zip",
-          "count": 29
+          "count": 30
         }
       }
     },
     "AbrDemLoader": {
       "repo": "Y-Abramov/abrdemloader",
       "offset": 0,
-      "total": 171,
+      "total": 172,
       "assets": {
         "549279927": {
           "name": "AbrDemLoader-1.0.0.zip",
-          "count": 171
+          "count": 172
         }
       }
     },
@@ -57,7 +57,7 @@
     "AbrPaving": {
       "repo": "Y-Abramov/abrpaving",
       "offset": 0,
-      "total": 166,
+      "total": 168,
       "assets": {
         "552397044": {
           "name": "AbrPaving-1.0.0.zip",
@@ -65,7 +65,7 @@
         },
         "651911826": {
           "name": "AbrPaving-1.1.0.zip",
-          "count": 22
+          "count": 24
         }
       }
     },
@@ -83,7 +83,7 @@
     "AbrVehiclePassage": {
       "repo": "Y-Abramov/abrvehiclepassage",
       "offset": 0,
-      "total": 190,
+      "total": 191,
       "assets": {
         "537458190": {
           "name": "AbrVehiclePassage-1.0.0.zip",
@@ -91,14 +91,14 @@
         },
         "651911784": {
           "name": "AbrVehiclePassage-1.1.0.zip",
-          "count": 24
+          "count": 25
         }
       }
     },
     "abr-civil-modules": {
       "repo": "Y-Abramov/abrcivilmodules",
       "offset": 116,
-      "total": 330,
+      "total": 331,
       "assets": {
         "537457886": {
           "name": "AbrCivilModules-1.0.0.zip",
@@ -130,7 +130,7 @@
         },
         "652453157": {
           "name": "AbrCivilModules-1.5.1.zip",
-          "count": 33
+          "count": 34
         }
       }
     }
