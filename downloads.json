@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-24T20:48:23.236Z",
+  "updated_at": "2026-10-25T04:39:57.347Z",
   "modules": {
     "AbrBasemap": {
       "repo": "Y-Abramov/abrbasemap",
       "offset": 0,
-      "total": 188,
+      "total": 189,
       "assets": {
         "549279759": {
           "name": "AbrBasemap-1.0.0.zip",
-          "count": 188
+          "count": 189
         }
       }
     },
     "AbrCartogram": {
       "repo": "Y-Abramov/abrcartogram",
       "offset": 0,
-      "total": 242,
+      "total": 243,
       "assets": {
         "537457703": {
           "name": "AbrCartogram-1.0.0.zip",
@@ -28,18 +28,18 @@
         },
         "651911742": {
           "name": "AbrCartogram-1.1.0.zip",
-          "count": 41
+          "count": 42
         }
       }
     },
     "AbrDemLoader": {
       "repo": "Y-Abramov/abrdemloader",
       "offset": 0,
-      "total": 178,
+      "total": 179,
       "assets": {
         "549279927": {
           "name": "AbrDemLoader-1.0.0.zip",
-          "count": 178
+          "count": 179
         }
       }
     },
@@ -57,7 +57,7 @@
     "AbrPaving": {
       "repo": "Y-Abramov/abrpaving",
       "offset": 0,
-      "total": 181,
+      "total": 182,
       "assets": {
         "552397044": {
           "name": "AbrPaving-1.0.0.zip",
@@ -65,7 +65,7 @@
         },
         "651911826": {
           "name": "AbrPaving-1.1.0.zip",
-          "count": 37
+          "count": 38
         }
       }
     },
@@ -83,7 +83,7 @@
     "AbrVehiclePassage": {
       "repo": "Y-Abramov/abrvehiclepassage",
       "offset": 0,
-      "total": 201,
+      "total": 202,
       "assets": {
         "537458190": {
           "name": "AbrVehiclePassage-1.0.0.zip",
@@ -91,7 +91,7 @@
         },
         "651911784": {
           "name": "AbrVehiclePassage-1.1.0.zip",
-          "count": 35
+          "count": 36
         }
       }
     },
