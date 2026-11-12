@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-12T15:13:08.015Z",
+  "updated_at": "2026-11-12T23:38:24.588Z",
   "modules": {
     "AbrBasemap": {
       "repo": "Y-Abramov/abrbasemap",
@@ -46,7 +46,7 @@
     "AbrLispManager": {
       "repo": "Y-Abramov/abrlispmanager",
       "offset": 0,
-      "total": 281,
+      "total": 282,
       "assets": {
         "537458024": {
           "name": "AbrLispManager-1.0.0.zip",
@@ -54,7 +54,7 @@
         },
         "689764898": {
           "name": "AbrLispManager-1.1.0.zip",
-          "count": 75
+          "count": 76
         }
       }
     },
