@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-13T19:40:29.582Z",
+  "updated_at": "2026-11-14T06:20:25.811Z",
   "modules": {
     "AbrBasemap": {
       "repo": "Y-Abramov/abrbasemap",
@@ -16,7 +16,7 @@
     "AbrCartogram": {
       "repo": "Y-Abramov/abrcartogram",
       "offset": 0,
-      "total": 321,
+      "total": 323,
       "assets": {
         "537457703": {
           "name": "AbrCartogram-1.0.0.zip",
@@ -28,25 +28,25 @@
         },
         "651911742": {
           "name": "AbrCartogram-1.1.0.zip",
-          "count": 120
+          "count": 122
         }
       }
     },
     "AbrDemLoader": {
       "repo": "Y-Abramov/abrdemloader",
       "offset": 0,
-      "total": 241,
+      "total": 242,
       "assets": {
         "549279927": {
           "name": "AbrDemLoader-1.0.0.zip",
-          "count": 241
+          "count": 242
         }
       }
     },
     "AbrLispManager": {
       "repo": "Y-Abramov/abrlispmanager",
       "offset": 0,
-      "total": 286,
+      "total": 287,
       "assets": {
         "537458024": {
           "name": "AbrLispManager-1.0.0.zip",
@@ -54,14 +54,14 @@
         },
         "689764898": {
           "name": "AbrLispManager-1.1.0.zip",
-          "count": 80
+          "count": 81
         }
       }
     },
     "AbrPaving": {
       "repo": "Y-Abramov/abrpaving",
       "offset": 0,
-      "total": 248,
+      "total": 249,
       "assets": {
         "552397044": {
           "name": "AbrPaving-1.0.0.zip",
@@ -69,7 +69,7 @@
         },
         "651911826": {
           "name": "AbrPaving-1.1.0.zip",
-          "count": 104
+          "count": 105
         }
       }
     },
@@ -102,7 +102,7 @@
     "abr-civil-modules": {
       "repo": "Y-Abramov/abrcivilmodules",
       "offset": 116,
-      "total": 416,
+      "total": 417,
       "assets": {
         "537457886": {
           "name": "AbrCivilModules-1.0.0.zip",
@@ -134,7 +134,7 @@
         },
         "652453157": {
           "name": "AbrCivilModules-1.5.1.zip",
-          "count": 117
+          "count": 118
         }
       }
     }
