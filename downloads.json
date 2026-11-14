@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-14T06:20:25.811Z",
+  "updated_at": "2026-11-14T17:59:43.266Z",
   "modules": {
     "AbrBasemap": {
       "repo": "Y-Abramov/abrbasemap",
@@ -16,7 +16,7 @@
     "AbrCartogram": {
       "repo": "Y-Abramov/abrcartogram",
       "offset": 0,
-      "total": 323,
+      "total": 324,
       "assets": {
         "537457703": {
           "name": "AbrCartogram-1.0.0.zip",
@@ -28,7 +28,7 @@
         },
         "651911742": {
           "name": "AbrCartogram-1.1.0.zip",
-          "count": 122
+          "count": 123
         }
       }
     },
@@ -102,7 +102,7 @@
     "abr-civil-modules": {
       "repo": "Y-Abramov/abrcivilmodules",
       "offset": 116,
-      "total": 417,
+      "total": 418,
       "assets": {
         "537457886": {
           "name": "AbrCivilModules-1.0.0.zip",
@@ -134,7 +134,7 @@
         },
         "652453157": {
           "name": "AbrCivilModules-1.5.1.zip",
-          "count": 118
+          "count": 119
         }
       }
     }
