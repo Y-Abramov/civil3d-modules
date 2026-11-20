@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T20:35:24.490Z",
+  "updated_at": "2026-11-20T07:13:52.594Z",
   "modules": {
     "AbrBasemap": {
       "repo": "Y-Abramov/abrbasemap",
@@ -16,7 +16,7 @@
     "AbrCartogram": {
       "repo": "Y-Abramov/abrcartogram",
       "offset": 0,
-      "total": 341,
+      "total": 343,
       "assets": {
         "537457703": {
           "name": "AbrCartogram-1.0.0.zip",
@@ -28,18 +28,18 @@
         },
         "651911742": {
           "name": "AbrCartogram-1.1.0.zip",
-          "count": 140
+          "count": 142
         }
       }
     },
     "AbrDemLoader": {
       "repo": "Y-Abramov/abrdemloader",
       "offset": 0,
-      "total": 256,
+      "total": 257,
       "assets": {
         "549279927": {
           "name": "AbrDemLoader-1.0.0.zip",
-          "count": 256
+          "count": 257
         }
       }
     },
@@ -102,7 +102,7 @@
     "abr-civil-modules": {
       "repo": "Y-Abramov/abrcivilmodules",
       "offset": 116,
-      "total": 434,
+      "total": 435,
       "assets": {
         "537457886": {
           "name": "AbrCivilModules-1.0.0.zip",
@@ -134,7 +134,7 @@
         },
         "652453157": {
           "name": "AbrCivilModules-1.5.1.zip",
-          "count": 135
+          "count": 136
         }
       }
     }
