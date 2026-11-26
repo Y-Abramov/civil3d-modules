@@ -1,26 +1,26 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-26T08:14:51.022Z",
+  "updated_at": "2026-11-26T21:29:45.523Z",
   "modules": {
     "AbrBasemap": {
       "repo": "Y-Abramov/abrbasemap",
       "offset": 0,
-      "total": 282,
+      "total": 294,
       "assets": {
         "549279759": {
           "name": "AbrBasemap-1.0.0.zip",
-          "count": 282
+          "count": 294
         }
       }
     },
     "AbrCartogram": {
       "repo": "Y-Abramov/abrcartogram",
       "offset": 0,
-      "total": 368,
+      "total": 392,
       "assets": {
         "537457703": {
           "name": "AbrCartogram-1.0.0.zip",
-          "count": 71
+          "count": 83
         },
         "576982243": {
           "name": "AbrCartogram-1.0.1.zip",
@@ -28,81 +28,81 @@
         },
         "651911742": {
           "name": "AbrCartogram-1.1.0.zip",
-          "count": 167
+          "count": 179
         }
       }
     },
     "AbrDemLoader": {
       "repo": "Y-Abramov/abrdemloader",
       "offset": 0,
-      "total": 278,
+      "total": 291,
       "assets": {
         "549279927": {
           "name": "AbrDemLoader-1.0.0.zip",
-          "count": 278
+          "count": 291
         }
       }
     },
     "AbrLispManager": {
       "repo": "Y-Abramov/abrlispmanager",
       "offset": 0,
-      "total": 328,
+      "total": 351,
       "assets": {
         "537458024": {
           "name": "AbrLispManager-1.0.0.zip",
-          "count": 206
+          "count": 217
         },
         "689764898": {
           "name": "AbrLispManager-1.1.0.zip",
-          "count": 122
+          "count": 134
         }
       }
     },
     "AbrPaving": {
       "repo": "Y-Abramov/abrpaving",
       "offset": 0,
-      "total": 287,
+      "total": 311,
       "assets": {
         "552397044": {
           "name": "AbrPaving-1.0.0.zip",
-          "count": 144
+          "count": 155
         },
         "651911826": {
           "name": "AbrPaving-1.1.0.zip",
-          "count": 143
+          "count": 156
         }
       }
     },
     "AbrPlanStrip": {
       "repo": "Y-Abramov/abrplanstrip",
       "offset": 0,
-      "total": 280,
+      "total": 291,
       "assets": {
         "537458119": {
           "name": "AbrPlanStrip-1.0.0.zip",
-          "count": 280
+          "count": 291
         }
       }
     },
     "AbrVehiclePassage": {
       "repo": "Y-Abramov/abrvehiclepassage",
       "offset": 0,
-      "total": 304,
+      "total": 334,
       "assets": {
         "537458190": {
           "name": "AbrVehiclePassage-1.0.0.zip",
-          "count": 166
+          "count": 180
         },
         "651911784": {
           "name": "AbrVehiclePassage-1.1.0.zip",
-          "count": 138
+          "count": 154
         }
       }
     },
     "abr-civil-modules": {
       "repo": "Y-Abramov/abrcivilmodules",
       "offset": 116,
-      "total": 455,
+      "total": 481,
       "assets": {
         "537457886": {
           "name": "AbrCivilModules-1.0.0.zip",
@@ -126,7 +126,7 @@
         },
         "651914236": {
           "name": "AbrCivilModules-1.2.0.zip",
-          "count": 1
+          "count": 15
         },
         "652453155": {
           "name": "AbrCivilSetup.exe",
@@ -134,7 +134,7 @@
         },
         "652453157": {
           "name": "AbrCivilModules-1.5.1.zip",
-          "count": 156
+          "count": 168
         }
       }
     }
